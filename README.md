@@ -1,2 +1,3 @@
 # Ecuadoria
-Travail réalisé lors de mon stage de fin de DUT Informatique, chez IDCOM, réalisé en avril 2022.
+Le but de ce travail était de réaliser un logo pour le client Ecuadoria, un institut de beauté et spa, chic.  
+J'ai proposé deux logos au client pour qu'il en choissise un parmi ceux que j'avais conçu.
